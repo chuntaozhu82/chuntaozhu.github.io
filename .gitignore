@@ -1,0 +1,17 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 项目状态文件
+PROJECT_STATUS.md
+.codebuddy/
+
+# 临时文件
+*.log
+*.tmp
