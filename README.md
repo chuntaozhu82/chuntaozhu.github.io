@@ -32,28 +32,7 @@ webset/
 
 直接在浏览器中打开 `index.html` 文件即可预览网站。
 
-## 部署说明
 
-### GitHub Pages 部署
-
-1. 创建GitHub仓库
-2. 上传所有文件到仓库
-3. 在仓库设置中启用 GitHub Pages
-4. 选择分支（main/master）和文件夹（root）
-
-### Cloudflare Pages 部署
-
-1. 登录 Cloudflare Dashboard
-2. 进入 Pages 页面
-3. 连接 GitHub 仓库
-4. 配置构建设置（无需构建命令）
-5. 部署
-
-## 自定义修改
-
-- **个人信息**：编辑 `index.html` 中的文本内容
-- **样式颜色**：修改 `styles.css` 中的 CSS 变量
-- **联系方式**：更新联系区域的邮箱和社交链接
 
 ## 许可证
 
